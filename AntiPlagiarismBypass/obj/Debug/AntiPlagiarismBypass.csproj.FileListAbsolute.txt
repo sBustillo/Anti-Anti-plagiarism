@@ -1,0 +1,10 @@
+C:\Users\samuel\source\repos\AntiPlagiarismBypass\AntiPlagiarismBypass\bin\Debug\AntiPlagiarismBypass.exe.config
+C:\Users\samuel\source\repos\AntiPlagiarismBypass\AntiPlagiarismBypass\bin\Debug\AntiPlagiarismBypass.exe
+C:\Users\samuel\source\repos\AntiPlagiarismBypass\AntiPlagiarismBypass\bin\Debug\AntiPlagiarismBypass.pdb
+C:\Users\samuel\source\repos\AntiPlagiarismBypass\AntiPlagiarismBypass\obj\Debug\AntiPlagiarismBypass.csproj.AssemblyReference.cache
+C:\Users\samuel\source\repos\AntiPlagiarismBypass\AntiPlagiarismBypass\obj\Debug\AntiPlagiarismBypass.Form1.resources
+C:\Users\samuel\source\repos\AntiPlagiarismBypass\AntiPlagiarismBypass\obj\Debug\AntiPlagiarismBypass.Properties.Resources.resources
+C:\Users\samuel\source\repos\AntiPlagiarismBypass\AntiPlagiarismBypass\obj\Debug\AntiPlagiarismBypass.csproj.GenerateResource.cache
+C:\Users\samuel\source\repos\AntiPlagiarismBypass\AntiPlagiarismBypass\obj\Debug\AntiPlagiarismBypass.csproj.CoreCompileInputs.cache
+C:\Users\samuel\source\repos\AntiPlagiarismBypass\AntiPlagiarismBypass\obj\Debug\AntiPlagiarismBypass.exe
+C:\Users\samuel\source\repos\AntiPlagiarismBypass\AntiPlagiarismBypass\obj\Debug\AntiPlagiarismBypass.pdb
