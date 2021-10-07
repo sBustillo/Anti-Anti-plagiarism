@@ -87,12 +87,12 @@ namespace AntiPlagiarismBypass
             }
             else {
 
-                fileContent = fileContent.Replace("A", "А");
-                fileContent = fileContent.Replace("e", "е");
+                //fileContent = fileContent.Replace("A", "А");
+                //fileContent = fileContent.Replace("e", "е");
                 fileContent = fileContent.Replace("i", "і");
                 fileContent = fileContent.Replace("o", "о");
 
-                File.WriteAllText(filePath, fileContent);
+                File.WriteAllText(filePath, fileContent, Encoding.Unicode);
 
                 MessageBox.Show("Everythign ok");
 
